@@ -1,6 +1,6 @@
 # Simple_C_Hill_Encryption
 
-A novel program to help me learn the Hill Cipher and Pointers/Structs/Lists.
+A novel program to help me learn the Hill Cipher and C Pointers/Structs/Lists.
 
 Takes any length string as main args then takes 4 (2x2) key matrix values in the order:
 
