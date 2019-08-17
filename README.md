@@ -5,6 +5,7 @@ A novel program to help me learn the Hill Cipher and Pointers/Structs/Lists.
 Takes any length string as main args then takes 4 (2x2) key matrix values in the order:
 
 1 2
+
 3 4
 
 Outputs a char *string of the cipher text.
